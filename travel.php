@@ -34,56 +34,81 @@
                 <div class="container">
                     <div class="row">
                         <div class="card">
-                            <img src="./images/travel/tenerife.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="./images/travel/tenerife.jpg" alt="Card image cap">
                             <span class="badge badge-primary">Feb 2017</span>
-                            <p class="card-text">A picture of my wife, Alison in <a target="_blank" href="http://www.spain-tenerife.com/en/places/costa-adeje.html">Costa Adeje</a> on the island of Tenerife.  One of our annual Feb visits to get away from the cold british climate.
-                            </p>
+                            <div class="card-block">
+                                <p class="card-text">A picture of my wife, Alison in <a target="_blank" href="http://www.spain-tenerife.com/en/places/costa-adeje.html">Costa Adeje</a> on the island of Tenerife.  One of our annual Feb visits to get away from the cold british climate.</p>
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/alsac.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="./images/travel/alsac.jpg" alt="Card image cap">
                             <span class="badge badge-primary">July 2016</span>
-                            <p class="card-text"><a target="_blank" href="https://tourisme-colmar.com/en/#/gallery/recent">Colmar</a> in the Alsace region of France, near the french german border.
-                            </p>
+                            <div class="card-block">
+                                <p class="card-text"><a target="_blank" href="https://tourisme-colmar.com/en/#/gallery/recent">Colmar</a> in the Alsace region of France, near the french german border.</p>
+
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/berlin.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="./images/travel/berlin.jpg" alt="Card image cap">
                             <span class="badge badge-primary">April 2016</span>
-                            <p class="card-text"><a target="_blank" href="https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html">Brandenburg gate</a> in Berlin to see my Son
-                            </p>
+                            <div class="card-block">
+                                <p class="card-text"><a target="_blank" href="https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html">Brandenburg gate</a> in Berlin to see my Son.</p>
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/chateau.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="./images/travel/chateau.jpg" alt="Card image cap">
                             <span class="badge badge-primary">June 2015</span>
-                            <p class="card-text">The Loire region in France.  Would you believe chateau's like this existed. This one is <a target="_blank" href="https://www.chenonceau.com/">Chenonceau</a>
-                            </p>
+                            <div class="card-block">
+                                <p class="card-text">The Loire region in France.  Would you believe chateau's like this existed. This one is <a target="_blank" href="https://www.chenonceau.com/">Chenonceau</a>
+                                </p>
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/croatia.jpg" alt="Card image cap">
+                            <img class="card-img-top"src="./images/travel/croatia.jpg" alt="Card image cap">
                             <span class="badge badge-primary">August 2014</span>
-                            <p class="card-text">Family visit to Croatia.  What is see in the picture is a small waterfall at <a target="_blank" href="https://np-plitvicka-jezera.hr/en/">Plitvice lakes national park</a>.  Stunning
-                            </p>
+                            <div class="card-block">
+                                <p class="card-text">Family visit to Croatia.  What is see in the picture is a small waterfall at <a target="_blank" href="https://np-plitvicka-jezera.hr/en/">Plitvice lakes national park</a>.  Stunning
+                                </p>
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/luxembourge.jpg" alt="Card image cap">
+                            <img class="card-img-top"src="./images/travel/luxembourge.jpg" alt="Card image cap">
                             <span class="badge badge-primary">June 2014</span>
-                            <p class="card-text">Luxembourg city.  Small capital, easy to walk around.  Not much for us in the city but the country was nice and sedate.</p>
+                            <div class="card-block">
+                                <p class="card-text">Luxembourg city.  Small capital, easy to walk around.  Not much for us in the city but the country was nice and sedate.</p>
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/dorset.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="./images/travel/dorset.jpg" alt="Card image cap">
                             <span class="badge badge-primary">July 2013</span>
-                            <p class="card-text">Dorset.  This is a picture of the famous coastal rock formation called <a target="_blank" href="https://www.visit-dorset.com/things-to-do/durdle-door-p1262763">Durdle door</a>.</p>
+                            <div class="card-block">
+                                <p class="card-text">Dorset.  This is a picture of the famous coastal rock formation called <a target="_blank" href="https://www.visit-dorset.com/things-to-do/durdle-door-p1262763">Durdle door</a>.</p>
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/newyork.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="./images/travel/newyork.jpg" alt="Card image cap">
                             <span class="badge badge-primary">Feb 2012</span>
-                            <p class="card-text">Met Alison in New York for a few days. Took in the sights.  I am sure you know the building in this picture.</p>
+                            <div class="card-block">
+                                <p class="card-text">Met Alison in New York for a few days. Took in the sights.  I am sure you know the building in this picture.</p>
+                            </div>
                         </div>
+
                         <div class="card">
-                            <img src="./images/travel/prague.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="./images/travel/prague.jpg" alt="Card image cap">
                             <span class="badge badge-primary">Sept 2011</span>
-                            <p class="card-text">Prague.  This is a view from the top of the <a target="_blank" href="https://www.pragueastronomicalclock.info/">Astronomical clock </a>on the old town square
-                            </p>
+                            <div class="card-block">
+                                <p class="card-text">Prague.  This is a view from the top of the <a target="_blank" href="https://www.pragueastronomicalclock.info/">Astronomical clock </a>on the old town square
+                                </p>
+                            </div>
                         </div>
+
                     </div> <!-- row -->
                 </div>  <!-- Container -->
             </div>  <!-- Album Text -->
