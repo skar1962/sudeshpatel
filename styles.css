@@ -39,3 +39,9 @@ footer {
   height:50px;
   padding:10px;
 }
+
+
+textarea.form-control{
+  height:100px;
+}
+

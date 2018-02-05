@@ -19,8 +19,14 @@
 					<a class="nav-link" href="recipes.php">My Recipes</a>
 				</li>
 				<li class="nav-item">
+					<a class="nav-link" href="contact.php">Contact Me</a>
+					
+				</li>
+				<!--
+				<li class="nav-item">
 					<a class="nav-link disabled" href="#">Contact Me</a>
 				</li>
+				-->
 			</ul>
 			<!--
 			<form class="form-inline mt-2 mt-md-0">
@@ -31,3 +37,4 @@
 		</div>
 	</nav>
 </header>
+

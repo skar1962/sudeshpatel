@@ -46,7 +46,6 @@
                             <span class="badge badge-primary">July 2016</span>
                             <div class="card-block">
                                 <p class="card-text"><a target="_blank" href="https://tourisme-colmar.com/en/#/gallery/recent">Colmar</a> in the Alsace region of France, near the french german border.</p>
-
                             </div>
                         </div>
 

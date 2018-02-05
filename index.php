@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Sudesh Patel v0.1</title>
+		<title>Sudesh Patel</title>
 		<meta charset="utf-8">
 
 		<!-- meta tag required by Bootstrap fpr mobile first development-->
@@ -125,7 +125,7 @@
 									<br>
 									Like what you see?  Then click on the button below and ask me to build your web site.
 								</p>
-								<a href="#" class="btn btn-primary">Contact me</a>
+								<a href="contact.php" class="btn btn-primary">Contact me</a>
 							</div>
 						</div>
 					</div>
@@ -165,7 +165,9 @@
 			</div>
 			<!-- End of Cards -->
 
-
+<!--
+			<?php require_once 'includes/contact.php'; ?>
+-->
 		</main>
 
 
