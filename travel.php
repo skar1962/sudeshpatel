@@ -126,15 +126,7 @@
         
         <link rel="icon" href="../../../../favicon.ico">
 
-        <!--
-        <script src="../../../../assets/js/vendor/popper.min.js"></script>
-        <script src="../../../../dist/js/bootstrap.min.js"></script>
-        -->
+        <?php require_once 'includes/footer.php'; ?>
 
-        <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-        <!--
-        <script src="../../../../assets/js/vendor/holder.min.js"></script>
-        -->
     </body>
-	<?php require_once 'includes/footer.php'; ?>
 </html>

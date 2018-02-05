@@ -15,8 +15,9 @@
 		
 		<link rel="stylesheet" type="text/css" href="styles.css" > 
 	
+	<!--
 		<script type="text/javascript" src="script.js"></script>
-
+-->
 <!--
 	To Do:
 -->
@@ -45,9 +46,6 @@
 							<div class="carousel-caption text-left">
 								<h1>This is me</h1>
 								<p>Experienced IT professional.</p>
-								<!--								
-								<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-								-->
 							</div>
 						</div>
 					</div>
@@ -164,10 +162,6 @@
 				</div>
 			</div>
 			<!-- End of Cards -->
-
-<!--
-			<?php require_once 'includes/contact.php'; ?>
--->
 		</main>
 
 
@@ -181,16 +175,8 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 		
-		<!--
-		<script src="../../../../assets/js/vendor/popper.min.js"></script>
-		<script src="../../../../dist/js/bootstrap.min.js"></script>
-		-->
 
-		<!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-		<!--
-		<script src="../../../../assets/js/vendor/holder.min.js"></script>
-		-->
-
+		<?php require_once 'includes/footer.php'; ?>
 	</body>
-	<?php require_once 'includes/footer.php'; ?>
+
 </html>
