@@ -51,7 +51,7 @@
 					<div class="card-body">
 						<h5 class="card-title">Moroccan Lamb Filo Pie</h5>
 						<a href="#moroccanLamb" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipies/moroccanlambfilopie.png" alt="Moroccan Lamb Filo Pie">
+							<img class="card-img-top" src="./images/recipes/moroccanlambfilopie.png" alt="Moroccan Lamb Filo Pie">
 							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
 							<p class="card-text">A delicious filo pie with a spiced minced lamb filling</p>
 							More..
@@ -64,7 +64,7 @@
 					<div class="card-body">
 						<h5 class="card-title">Slow Cooker Lamb Tagine</h5>
 						<a href="#lambTagine" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipies/slowcookerlambtagine.jpg" alt="Slow Cooker Lamb Tagine">
+							<img class="card-img-top" src="./images/recipes/slowcookerlambtagine.jpg" alt="Slow Cooker Lamb Tagine">
 							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
 							<p class="card-text">A slow cooker recipe with melt in your mouth lamb and chick peas</p>
 							More..
@@ -77,7 +77,7 @@
 					<div class="card-body">
 						<h5 class="card-title">Potato (Aloo) Podimas</h5>
 						<a href="#alooPodimas" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipies/aloopodimas.jpg" alt="Aloo Podimas">
+							<img class="card-img-top" src="./images/recipes/aloopodimas.jpg" alt="Aloo Podimas">
 							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
 							<p class="card-text">A simple potato dish that will blow you away with flavour</p>
 							More..
@@ -90,7 +90,7 @@
 					<div class="card-body">
 						<h5 class="card-title">Bhinda Bateta (Okra and Potato)</h5>
 						<a href="#bhindaBateta" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipies/bhindabateta.jpg" alt="Bhinda Bateta">
+							<img class="card-img-top" src="./images/recipes/bhindabateta.jpg" alt="Bhinda Bateta">
 							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
 							<p class="card-text">A healthy and spicy recipe with Okra and potatoes</p>
 							More..
@@ -107,7 +107,7 @@
 					<div class="card-body">
 						<h5 class="card-title">Japanese Curry</h5>
 						<a href="#japaneseCurry" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipies/japanesecurry.jpg" alt="Japanese Curry">
+							<img class="card-img-top" src="./images/recipes/japanesecurry.jpg" alt="Japanese Curry">
 							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
 							<p class="card-text">A delicious curry eaten all over Japan.  Very different to an Indian curry and very tasty.</p>
 							More..
@@ -120,7 +120,7 @@
 					<div class="card-body">
 						<h5 class="card-title">Easy Cheese Sauce</h5>
 						<a href="#cheeseSauce" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipies/cheesesauce.jpg" alt="Cheese Sauce">
+							<img class="card-img-top" src="./images/recipes/cheesesauce.jpg" alt="Cheese Sauce">
 							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
 							<p class="card-text">A super easy to make cheese sauce with cornflour.</p>
 							More..
@@ -142,7 +142,7 @@
 							</button>
 						</div>
 						<div class="modal-body">
-							<img class="card-img-top" src="./images/recipies/moroccanlambfilopie.png" alt="Moroccan Lamb Filo Pie">
+							<img class="card-img-top" src="./images/recipes/moroccanlambfilopie.png" alt="Moroccan Lamb Filo Pie">
 							<p>This is from the Tesco web site but works very well</p>
 
 							<h2>Ingredients</h2>
@@ -188,7 +188,7 @@
 							</button>
 						</div>
 						<div class="modal-body">
-							<img class="card-img-top" src="./images/recipies/slowcookerlambtagine.jpg" alt="Slow Cooker Lamb Tagine">
+							<img class="card-img-top" src="./images/recipes/slowcookerlambtagine.jpg" alt="Slow Cooker Lamb Tagine">
 							<h2>Ingredients</h2>
 							<ul>Olive oil</ul>
 							<ul>500g lamb neck or similar, diced</ul>
@@ -229,7 +229,7 @@
 							</button>
 						</div>
 						<div class="modal-body">
-							<img class="card-img-top" src="./images/recipies/aloopodimas.jpg" alt="Aloo Podimas">
+							<img class="card-img-top" src="./images/recipes/aloopodimas.jpg" alt="Aloo Podimas">
 							<span class="badge badge-primary">Prep: 5 min</span>
 							<span class="badge badge-warning">Cook: 20 min</span>
 							<span class="badge badge-success">Ready in: 30 min</span>
@@ -281,35 +281,45 @@
 							</button>
 						</div>
 						<div class="modal-body">
-							<img class="card-img-top" src="./images/recipies/bhindabateta.jpg" alt="Bhinda Bateta">
+							<img class="card-img-top" src="./images/recipes/bhindabateta.jpg" alt="Bhinda Bateta">
+							<span class="badge badge-primary">Prep: 10 min</span>
+							<span class="badge badge-warning">Cook: 20 min</span>
+							<span class="badge badge-success">Ready in: 30 min</span>
 							<h2>Ingredients</h2>
 							<h3>For Fresh Masala</h3>
-							<ul>Ginger –  2 tblspn</ul>
-							<ul>Garlic – 2 tblspn</ul>
-							<ul>Green Chilli – 1</ul>
-							<ul>Lemon Juice – 2 tsp</ul>
-							<ul>Turmeric Powder / Majal Podi – ½ tsp</ul>
-							<ul>Oil- 1 tblspn</ul>
+							<ul>2 tbsp Ginger</ul>
+							<ul>2 tbsp Garlic</ul>
+							<ul>1 Green Chilli</ul>
+							<ul>2 tsp Lemon Juice</ul>
+							<ul>½ tsp Turmeric Powder</ul>
+							<ul>1 tbsp Oil</ul>
 							
 							<h3>For Cooking</h3>
-							<ul>Ladysfinger / Okra / Vendaikai – ½ kg chopped</ul>
-							<ul>Potato – 3 large chopped</ul>
-							<ul>Cumin Powder / Jeera Powder -1 tsp</ul>
-							<ul>Coriander Powder / Malli Podi -1 tblspn</ul>
-							<ul>Chilli Powder -1 tsp</ul>
-							<ul>Turmeric Powder / Manjal Podi – ½ tsp</ul>
-							<ul>Mustard Seeds / Kaduku -1 tsp</ul>
-							<ul>Fenugreek Seeds / Methi / Vendayam -1 tsp</ul>
+							<ul>½ kg Ladysfinger / Okra –  left whole or chopped</ul>
+							<ul>3 large Potato – chopped</ul>
+							<ul>1 tsp Cumin Powder / Jeera Powder</ul>
+							<ul>1 tbsp Coriander Powder</ul>
+							<ul>1 tsp Chilli Powder</ul>
+							<ul>½ tsp Turmeric Powder</ul>
+							<ul>1 tsp Mustard Seeds / Kaduku</ul>
+							<ul>1 tsp Fenugreek Seeds / Methi</ul>
 							<ul>Salt to taste</ul>
-							<ul>Oil-1 tblspn</ul>
+							<ul>1 tbsp Oil</ul>
 							<h2>Method</h2>
-							Start by making Fresh masala..Grind ginger, garlic, green chilli and turmeric together to a smooth paste. 
-							Transfer to a bowl and add lemon juice and oil. Mix well..This is Fresh Masala.
-							<br>
-							Now make subzi. Heat oil and add mustard and fenugreek seeds. 
-							Add potato and ladysfinger and mix well. Add salt and mix well.
-							Now add in chilli, coriander, turmeric and cumin powder. Toss well..
-							Add the fresh masala and mix well.. Cover and cook for 10-15 mins..Now open the lid and cook for 5 more minutes.
+								<p>1. Start by making fresh masala.</p>
+								<ul>Grind ginger, garlic, green chilli and turmeric together to a smooth paste. </ul>
+								<ul>Transfer to a bowl and add lemon juice and oil. </ul>
+								<ul>Mix well.</ul>
+								<ul><b>This is fresh masala.</b></ul>
+							
+							<p>2. Now make subzi.</p>
+								<ul>Heat oil and add mustard and fenugreek seeds. </ul>
+								<ul>Add potato and ladysfinger and mix well. </ul>
+								<ul>Add salt and mix well.</ul>
+								<ul>Now add in chilli, coriander, turmeric and cumin powder. Toss well.</ul>
+								<ul>Add the fresh masala and mix well.</ul>
+								<ul>Cover and cook for 10-15 mins.</ul>
+								<ul>Now open the lid and cook for 5 more minutes.</ul>
 							<br>
 							Serve hot with rice or roti.
 						</div>
@@ -330,14 +340,14 @@
 							</button>
 						</div>
 						<div class="modal-body">
-							<img class="card-img-top" src="./images/recipies/japanesecurry.jpg" alt="Japanese Curry">
+							<img class="card-img-top" src="./images/recipes/japanesecurry.jpg" alt="Japanese Curry">
 							<span class="badge badge-primary">Prep: 10 min</span>
 							<span class="badge badge-warning">Cook: 50 min</span>
 							<span class="badge badge-success">Ready in: 60 min</span>
 							<p> Given to me by my best friend Masami - delicious!</p>
 
 							<h2>Ingredients</h2>
-							<ul>Half a packet of a good japanese curry <a href="./images/recipies/japanesecurrypaste.jpg"> paste</a> 
+							<ul>Half a packet of a good japanese curry <a href="./images/recipes/japanesecurrypaste.jpg"> paste</a> 
 							</ul>
 							<ul>chopped onions</ul>
 							<ul>diced beef</ul>
@@ -380,7 +390,7 @@
 							</button>
 						</div>
 						<div class="modal-body">
-							<img class="card-img-top" src="./images/recipies/cheesesauce.jpg" alt="Cheese Sauce">
+							<img class="card-img-top" src="./images/recipes/cheesesauce.jpg" alt="Cheese Sauce">
 							<span class="badge badge-primary">Prep: 10 min</span>
 							<span class="badge badge-warning">Cook: 10 min</span>
 							<span class="badge badge-success">Ready in: 20 min</span>
