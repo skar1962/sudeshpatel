@@ -117,9 +117,9 @@
 									<br>
 									The links below will take you to my web sites.
 									<br>
-									<a target="_blank" href="http://kent-tutor.com/" class="card-link">Kent-Tutor.com (Live)</a>
+									<a target="_blank" href="https://kent-tutor.com/" class="card-link">Kent-Tutor.com (Live)</a>
 									<br>
-									<a target="_blank" href="http://zoom-away.com/" class="card-link">Zoom-Away.com (Play)</a>
+									<a target="_blank" href="https://zoom-away.com/" class="card-link">Zoom-Away.com (Play)</a>
 									<br>
 									Like what you see?  Then click on the button below and ask me to build your web site.
 								</p>

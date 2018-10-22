@@ -34,6 +34,40 @@
                 <div class="container">
                     <div class="row">
                         <div class="card">
+                            <img class="card-img-top" src="./images/travel/oldharryrocks.jpg" alt="Card image cap">
+                            <span class="badge badge-primary">Oct 2018</span>
+                            <div class="card-block">
+                                <p class="card-text">A few days staying near Swanage in Dorset.  Walked to this stunning landscape called <a target="_blank" href="https://www.nationaltrust.org.uk/purbeck-countryside/trails/old-harry-rocks-walk">Old Harry Rocks</a>.</p>
+                            </div>
+                        </div>
+
+                       <div class="card">
+                            <img class="card-img-top" src="./images/travel/ladrambay.jpg" alt="Card image cap">
+                            <span class="badge badge-primary">Sep 2018</span>
+                            <div class="card-block">
+                                <p class="card-text">We stayed at <a target="_blank" href="http://www.ladrambay.com">Ladram Bay</a> caravan site in Devon.  This picture is of the rocks at the campsites own beach.  Stunning location! </p>
+                            </div>
+                        </div>
+                        
+                        <div class="card">
+                            <img class="card-img-top" src="./images/travel/laflotte.jpg" alt="Card image cap">
+                            <span class="badge badge-primary">Jun 2018</span>
+                            <div class="card-block">
+                                <p class="card-text">The main summer holiday in 2018 was to the La Rochelle region in France.  The photo is one of the marina in a town called
+                                <a target="_blank" href="https://www.holidays-iledere.co.uk/discover-ile-de-re/1-island-10-villages/la-flotte">La Flotte</a> on the
+                                <a target="_blank" href="https://www.holidays-iledere.co.uk/"> Ile De Re</a>. </p>
+                            </div>
+                        </div>
+                                                
+                        <div class="card">
+                            <img class="card-img-top" src="./images/travel/loshervideros.jpg" alt="Card image cap">
+                            <span class="badge badge-primary">Feb 2018</span>
+                            <div class="card-block">
+                                <p class="card-text">This is the dramatic black lava rock coatline on Lanzarote called <a target="_blank" href="https://www.lanzaroteguide.com/los-hervideros/">Los Hervideros</a>. </p>
+                            </div>
+                        </div>
+
+                        <div class="card">
                             <img class="card-img-top" src="./images/travel/tenerife.jpg" alt="Card image cap">
                             <span class="badge badge-primary">Feb 2017</span>
                             <div class="card-block">
@@ -61,7 +95,7 @@
                             <img class="card-img-top" src="./images/travel/chateau.jpg" alt="Card image cap">
                             <span class="badge badge-primary">June 2015</span>
                             <div class="card-block">
-                                <p class="card-text">The Loire region in France.  Would you believe chateau's like this existed. This one is <a target="_blank" href="https://www.chenonceau.com/">Chenonceau</a>
+                                <p class="card-text">The Loire region in France.  Would you believe chateau's like this existed. This one is <a target="_blank" href="https://www.chenonceau.com/">Chenonceau</a>.
                                 </p>
                             </div>
                         </div>
