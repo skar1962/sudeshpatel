@@ -30,7 +30,7 @@
 			<!-- Jumbotron -->
 			<div class="jumbotron">
 					<h1>Danger!</h1> 
-					<h2>Amatuer cook in the house.</h2>
+					<h2>Amateur cook in the house.</h2>
 					<p>I have been a keen cook for many years.  I follow recipes from cookery books, T.V programs and from web sites.  You will find a selection of them below.</p>
 					<h3>Try them, you wont be disappointed! </h3>
 			</div>
@@ -143,7 +143,7 @@
 						</div>
 						<div class="modal-body">
 							<img class="card-img-top" src="./images/recipes/moroccanlambfilopie.png" alt="Moroccan Lamb Filo Pie">
-							<p>This is from the Tesco web site but works very well</p>
+							<p>This is from the internet but works very well - tweak to your liking</p>
 
 							<h2>Ingredients</h2>
 							<ul>
@@ -152,9 +152,11 @@
 							<li>500g minced lamb</li> 
 							<li>1tsp cinnamon</li> 
 							<li>1tsp mixed spice </li>
-							<li>½tsp ground cumin </li>
-							<li>100ml (3½fl oz) lamb or chicken stock</li> 
-							<li>75g (3oz) dried apricots, chopped </li>
+							<li>1tsp ground cumin </li>
+							<li>100ml lamb (or chicken stock)</li> 
+							<li>handful mixed fruit</li>
+							<li>handful olives - pitted </li>							
+							<li>75g dried apricots, chopped</li>
 							<li>50g (2oz) pine nuts </li>
 							<li>handful parsley, roughly chopped </li>
 							<li>5-6 Jus-Rol Filo pastry sheets </li>
@@ -163,13 +165,17 @@
 							<h2>Method</h2>
 							Preheat the oven to gas 5, 190°C, fan 170°C. Heat the oil in a large pan and gently fry the onion until softened. Add the lamb 
 							and cook until browned, breaking up any clumps with a wooden spoon. Stir in the spices, then add the stock. Continue cooking over 
-							a medium heat for 15 minutes, or until all the liquid has been absorbed. Stir the apricots through the mince and season well. Set 
-							aside to cool. Meanwhile, toast the pine nuts in a dry pan and leave to cool. Stir the cooled pine nuts through the mince with 
-							the parsley. To assemble the pie, put one sheet of filo pastry in a 20cm (8in) ovenproof dish and lightly brush with some of 
-							the melted butter. Repeat with two more sheets, layering the dish until the base and sides are completely covered, with the 
-							excess pastry hanging over the edge. Spoon the filling into the dish and fold over the excess pastry to cover. Brush with melted butter.
-							Brush another filo sheet with butter and tear it into strips. Drape the strips over the filling, allowing them to fall unevenly 
-							in waves. Repeat with the remaining sheet of filo and brush again with melted butter. Bake for 15-20 minutes, or until crispy and golden.							
+							a medium heat for 15 minutes, or until all the liquid has been absorbed. Add the mixed fruit, olives and apricots through the mince
+							and season well. Cook for a couple of minutes then set aside to cool. Meanwhile, toast the pine nuts in a dry pan and leave to cool.
+							Stir the cooled pine nuts through the mince with the parsley. To assemble the pie, put one sheet of filo pastry in a 20cm (8in) ovenproof
+							dish and lightly brush with some of	the melted butter. Repeat with two more sheets, layering the dish until the base and sides are
+							completely covered, with the excess pastry hanging over the edge. Spoon the filling into the dish and fold over the excess pastry to cover. 
+							Brush with melted butter. Brush another filo sheet with butter and tear it into strips. Drape the strips over the filling, allowing them to
+							fall unevenly in waves. Repeat with the remaining sheet of filo and brush again with melted butter. Bake for 15-20 minutes, or until crispy
+							and golden.
+							<br>
+							<h2>Notes</h2>
+							Taste often during cooking! Adjust the spices and fruits to your liking to get a pie that is not too sweet but full of Moroccan flovours.						
 						</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
