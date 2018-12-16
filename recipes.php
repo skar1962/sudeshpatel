@@ -127,6 +127,20 @@
 						</a>
 					</div>
 				</div>
+				
+				<!-- Pumpkin Pie -->
+				<div class="card" style="width: 18rem;">
+					<div class="card-body">
+						<h5 class="card-title">Creamy Pumpkin Pie</h5>
+						<a href="#pumpkinPie" class="card-link" data-toggle="modal">
+							<img class="card-img-top" src="./images/recipes/pumpkinpie.jpg" alt="Pumpkin Pie">
+							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+							<p class="card-text">An easy to make, tasty Pumpkin Pie.</p>
+							More..
+						</a>
+					</div>
+				</div>
+
 			</div>	<!-- Card Deck 2 -->
 
 
@@ -421,6 +435,65 @@
 					</div>
 				</div>
 			</div>
+			<div class="modal fade" id="pumpkinPie" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog modal-lg" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title" id="exampleModalLabel">Creamy Pumpkin Pie</h5>
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body">
+							<img class="card-img-top" src="./images/recipes/pumpkinpie.jpg" alt="Pumpkin Pie">
+							<span class="badge badge-primary">Prep: 60 min</span>
+							<span class="badge badge-warning">Cook: 40 min</span>
+							<span class="badge badge-success">Ready in: 100 min</span>
+							<h2>Ingredients</h2>
+							<ul>1 UK sized medium pumpkin</ul>
+							<ul>400g can of sweetened condensed milk</ul>
+							<ul>2 eggs</ul>
+							<ul>1 tsp ground cinnamon</ul>
+							<ul>½ tsp ground ginger</ul>
+							<ul>½ tsp ground nutmeg</ul>
+							<ul>½ tsp salt</ul>
+							<ul>500g Jus Rol (or similar) shortcrust pastry block or ready made pie dish crust</ul>
+
+							<h2>To make pumpkin puree</h2>
+							1. Preheat the oven to 165 degress C. 
+							<br>
+							2. Wash and halve the pumpkin and scoop out the seeds and the stringy bits. (I'd keep the seeds to toast and have as a healthy 
+							snack). 
+							<br>
+							3. Place the pumpkin halves cut side down in a baking tray and bake for 45-60 mins or until the pumpkin is soft to the touch. 
+							<br>
+							4. Remove from oven, let it cool, then scrape out the pumpkin meat. 
+							<br>
+							5. Puree in a processor or blender.
+							<br>
+
+							<h2>Pastry base</h2>
+							If you are using a short crust pastry block or have made your own pastry rather than a ready made pie dish crust, you will need to 
+							blind bake the pastry.  Click <a target="_blank" href="https://www.bbcgoodfood.com/videos/techniques/how-blind-bake-pastry">here</a> to understand how to blind bake pastry.
+							
+							<h2>Method</h2>
+							1. To make the pie, preheat the oven to 220 degrees C
+							<br>
+							2. In a large bowl, combine the pumpkin puree and condensed milk. Add the eggs, cinnamon, ginger, nutmeg and salt.  
+							Mix together with a wire whisk until thoroughly blended
+							<br>
+							3. Pour the mixture into the pie crust and bake in the oven for 15 minutes. Then reduce the heat to 175 degrees C and bake for another 35-40
+							 minutes or until a knife inserted comes out clean.
+							<br>
+							Let it cool before slicing the pie and enjoying with some double cream poured on top!
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+
 			<!-- End of Modals -->
 		</main>
 
