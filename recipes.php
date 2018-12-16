@@ -470,12 +470,13 @@
 							4. Remove from oven, let it cool, then scrape out the pumpkin meat. 
 							<br>
 							5. Puree in a processor or blender.
-							<br>
+							<br><br>
 
 							<h2>Pastry base</h2>
 							If you are using a short crust pastry block or have made your own pastry rather than a ready made pie dish crust, you will need to 
 							blind bake the pastry.  Click <a target="_blank" href="https://www.bbcgoodfood.com/videos/techniques/how-blind-bake-pastry">here</a> to understand how to blind bake pastry.
-							
+							<br><br>
+
 							<h2>Method</h2>
 							1. To make the pie, preheat the oven to 220 degrees C
 							<br>
@@ -484,7 +485,7 @@
 							<br>
 							3. Pour the mixture into the pie crust and bake in the oven for 15 minutes. Then reduce the heat to 175 degrees C and bake for another 35-40
 							 minutes or until a knife inserted comes out clean.
-							<br>
+							<br><br>
 							Let it cool before slicing the pie and enjoying with some double cream poured on top!
 						</div>
 						<div class="modal-footer">
