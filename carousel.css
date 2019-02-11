@@ -5,9 +5,12 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  /* 08/02/2018  background-color: #5a5a5a; */ 
 }
 
+.container {
+  width: 1000px;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -25,7 +28,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
-  background-color: #777;
+  /* 08/02/2018 background-color: #777; */
 }
 .carousel-item > img {
   position: absolute;
@@ -89,3 +92,6 @@ body {
     margin-top: 7rem;
   }
 }
+
+
+

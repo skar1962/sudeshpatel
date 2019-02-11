@@ -27,141 +27,144 @@
 		<?php require_once 'includes/header.php'; ?>	
 
 		<main role="main">
-
-			<!-- Start of carousel -->
-			<div id="myCarousel" class="carousel slide" data-ride="carousel">
-				<ol class="carousel-indicators">
-				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-				<li data-target="#myCarousel" data-slide-to="1"></li>
-				<li data-target="#myCarousel" data-slide-to="2"></li>
-				<li data-target="#myCarousel" data-slide-to="3"></li>
-			
-				</ol>
-				<div class="carousel-inner">
-
-					<div class="carousel-item active">
-						<img class="first-slide" src="./images/thisisme.jpg" alt="Who Am I">
-
-						<div class="container">
-							<div class="carousel-caption text-left">
-								<h1>This is me</h1>
-								<p>Experienced IT professional.</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="carousel-item">
-						<img class="second-slide" src="./images/webdevelopment2.jpg" alt="Web Development">
-						<div class="container">
+			<div class="container">
+				<!-- Start of carousel -->
+				<div id="myCarousel" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
+					<li data-target="#myCarousel" data-slide-to="4"></li>
+					<li data-target="#myCarousel" data-slide-to="5"></li>
+				
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="first-slide" src="./images/papertocomputer.png" alt="Who Am I">
 							<div class="carousel-caption">
-								<h1 class="bg-light">I am a Web developer.</h1>
+								<h2>Digitise your ideas</h2>
+								<br>
+								<br>
 							</div>
 						</div>
-					</div>
 
-					<div class="carousel-item">
-						<img class="third-slide" src="./images/travel.jpg" alt="Travel">
-						<div class="container">
+						<div class="carousel-item">
+							<img class="second-slide" src="./images/webdevelopment2.jpg" alt="Web Development">
 							<div class="carousel-caption">
-								<h1 class="bg-light">I like to travel.</h1>
+								<h2>Web design and development</h2>
+								<br>
+								<br>
 							</div>
-						</div>
-					</div>
+						</div> <!-- carousel-item -->
 
-
-					<div class="carousel-item">
-						<img class="fourth-slide" src="./images/foodandwine.jpg" alt="Amateur Cook">
-						<div class="container">
+						<div class="carousel-item">
+							<img class="third-slide" src="./images/quality.jpg" alt="High Quality">
 							<div class="carousel-caption">
-								<h1 class="bg-light">and I love food.</h1>
+								<h2>High quality solutions</h2>
 							</div>
-						</div>
-					</div>
-				</div> <!-- Carousel Inner -->
-				<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-				</a>
-				<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-				</a>
-			</div>
-			<!-- End of carousel -->
+						</div><!-- carousel-item -->
 
-			<!-- Using Cards -->
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-sm">
+
+						<div class="carousel-item">
+							<img class="fourth-slide" src="./images/costsqueeze.jpg" alt="Low Cost">
+							<div class="carousel-caption text-right">
+								<h2>Surprisingly affordable</h2>
+								<br><br>
+							</div>
+						</div><!-- carousel-item -->
+
+						<div class="carousel-item">
+							<img class="fifth-slide" src="./images/personaltouch.jpg" alt="Personal Touch">
+							<div class="carousel-caption">
+								<h2>A personal touch</h2>
+								<br><br>
+							</div>
+						</div><!-- carousel-item -->
+
+						<div class="carousel-item">
+							<img class="sixth-slide" src="./images/endtoend.jpg" alt="End to End">
+							<div class="carousel-caption">
+								<h2>An end to end service</h2>
+								<br><br>
+							</div>
+						</div><!-- carousel-item -->
+					</div> <!-- Carousel Inner -->
+
+					<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div> <!-- End of carousel -->
+
+				<!-- Using Cards -->
+				<div class="container">
+					<div class="card-deck">
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="./images/whoami.jpg" alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title">Who am I?</h5>
 								<p class="card-text">
-									I am an IT professional with extensive experience within software engineering at all levels.
-									I no longer work for a large corporate as I wish to pursue my own interests in life.  
+									I am a freelance IT professional with extensive experience within software engineering at all levels.
 								</p>
-								<a href="whoami1.php" class="btn btn-primary">More</a>
 							</div>
-						</div>
-					</div>
-					
-					<div class="col-sm">
+							<div class="card-footer">
+								<a href="whoami1.php" class="btn btn-primary">More</a>
+							</div>	
+						</div> <!-- card -->
+						
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="./images/webdevelopment.jpg" alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title">What I do</h5>
 								<p class="card-text">
-									I code web sites from scratch without the added overhead of web site builders such as Wordpress or Drupal.  
-									This gives me total control on the look and feel of my web sites. 
+									I create fast, flexible, responsive websites totally tailored for you. 
 									<br>
-									The links below will take you to my web sites.
-									<br>
-									<a target="_blank" href="https://kent-tutor.com/" class="card-link">Kent-Tutor.com (Live)</a>
-									<br>
-									<a target="_blank" href="https://zoom-away.com/" class="card-link">Zoom-Away.com (Play)</a>
-									<br>
-									Like what you see?  Then click on the button below and ask me to build your web site.
+									Click on the links menu above to look at my other web sites.
 								</p>
-								<a href="contact.php" class="btn btn-primary">Contact me</a>
 							</div>
-						</div>
-					</div>
-					
-					<div class="col-sm">
+							<div class="card-footer">
+								<a href="contact.php" class="btn btn-primary">Contact me</a>
+							</div>	
+						</div><!-- card -->
+
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="./images/travel2.jpg" alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title">Travel Interests</h5>
 								<p class="card-text">
-									We all enjoy travelling.  I love going to new places and have travelled extensively 
-									in the UK and also in Europe.  See some places I have visited by clicking on the 
-									button below.
+									I love going to new places and have travelled extensively 
+									in the UK and also in Europe.  Checkout my travelogue below.
 								</p>
-								<a href="travel.php" class="btn btn-primary">Travelogue</a>
 							</div>
-						</div>
-					</div>
-
-					<div class="col-sm">
+							<div class="card-footer">
+								<a href="travel.php" class="btn btn-primary">Travelogue</a>
+							</div>	
+						</div><!-- card -->
+						
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="./images/cooking.jpg" alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title">Amateur Cook</h5>
 								<p class="card-text">
-									I have been a keen cook for several years, however in the last year I have found some 
-									time on my hands to try out some excellent recipes.  Whilst I enjoy eating out, I feel
-									I can do better than some restaurants and prefer to cook and eat in now. Here you will find 
-									some Recipes I have had success with.
+									As a keen cook, I have built up a selection of recipes that I enjoy cooking and eating.
+									Here you will find a small selection of them. 
 								</p>
-								<a href="recipes.php" class="btn btn-primary">My Recipes</a>
 							</div>
-						</div>
-					</div>
-					
+							<div class="card-footer">
+								<a href="recipes.php" class="btn btn-primary">My Recipes</a>
+							</div>								
+						</div><!-- card -->
+
+					</div> 	<!-- Card Decks -->
 				</div>
-			</div>
-			<!-- End of Cards -->
+				<!-- End of Cards -->
+			</div> <!-- Container -->
+
 		</main>
 
 

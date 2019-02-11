@@ -14,6 +14,8 @@
 		<!--<link href="carousel.css" rel="stylesheet"> -->
 		
 		<link rel="stylesheet" type="text/css" href="styles.css" > 
+		<link rel="stylesheet" type="text/css" href="album.css" > 
+		
 	
 		<script type="text/javascript" src="script.js"></script>
 
@@ -28,121 +30,116 @@
 		<main role="main">
 
 			<!-- Jumbotron -->
-			<div class="jumbotron">
-					<h1>Danger!</h1> 
-					<h2>Amateur cook in the house.</h2>
-					<p>I have been a keen cook for many years.  I follow recipes from cookery books, T.V programs and from web sites.  You will find a selection of them below.</p>
-					<h3>Try them, you wont be disappointed! </h3>
-			</div>
+			<section class="jumbotron text-center">
+				<div class="container">
+					<h1 class="jumbotron-heading">Danger!</h1> 
+					<p>Amateur cook in the house.</p>
+					<h3 class="lead text-muted">I have been a keen cook for many years. 
+						 I follow recipes from cookery books, T.V programs and from web sites.
+						   You will find a selection of them below.
+					</h3>
+					<p>Try them, you wont be disappointed! </p>
+				</div>
+			</section>
 			<!-- End Jumbotron -->
 
+			<div class="album">
+				<div class="container">
+					<div class="row">
+						<!-- Card Deck 1 -->
+						<div class="card-deck">
+							<!--
+							<div class="card-deck">	
+							<div class="card-group">
+							<div class="card-columns">
+							-->
 
-			<!-- Card Deck 1 -->
-			<div class="card-deck">
-				<!--
-				<div class="card-deck">	
-				<div class="card-group">
-				<div class="card-columns">
-				-->
 
+							<!-- Moroccan Lamb Pie Card -->
+							<div class="card" style="width: 18rem;">
+									<h5 class="card-title">Moroccan Lamb Filo Pie</h5>
+									<a href="#moroccanLamb" class="card-link" data-toggle="modal">
+										<img class="card-img-top" src="./images/recipes/moroccanlambfilopie.png" alt="Moroccan Lamb Filo Pie">
+										<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+										<p class="card-text">A delicious filo pie with a spiced minced lamb filling</p>
+										More..
+									</a>
+							</div>
 
-				<!-- Moroccan Lamb Pie Card -->
-				<div class="card" style="width: 18rem;">
-					<div class="card-body">
-						<h5 class="card-title">Moroccan Lamb Filo Pie</h5>
-						<a href="#moroccanLamb" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipes/moroccanlambfilopie.png" alt="Moroccan Lamb Filo Pie">
-							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
-							<p class="card-text">A delicious filo pie with a spiced minced lamb filling</p>
-							More..
-						</a>
-					</div>
-				</div>
+							<!-- Lamb Tagine Card -->
+							<div class="card" style="width: 18rem;">
+									<h5 class="card-title">Slow Cooker Lamb Tagine</h5>
+									<a href="#lambTagine" class="card-link" data-toggle="modal">
+										<img class="card-img-top" src="./images/recipes/slowcookerlambtagine.jpg" alt="Slow Cooker Lamb Tagine">
+										<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+										<p class="card-text">A slow cooker recipe with melt in your mouth lamb and chick peas</p>
+										More..
+									</a>
+							</div>
 
-				<!-- Lamb Tagine Card -->
-				<div class="card" style="width: 18rem;">
-					<div class="card-body">
-						<h5 class="card-title">Slow Cooker Lamb Tagine</h5>
-						<a href="#lambTagine" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipes/slowcookerlambtagine.jpg" alt="Slow Cooker Lamb Tagine">
-							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
-							<p class="card-text">A slow cooker recipe with melt in your mouth lamb and chick peas</p>
-							More..
-						</a>
-					</div>
-				</div>
+							<!-- Aloo Podimas -->
+							<div class="card" style="width: 18rem;">
+									<h5 class="card-title">Potato (Aloo) Podimas</h5>
+									<a href="#alooPodimas" class="card-link" data-toggle="modal">
+										<img class="card-img-top" src="./images/recipes/aloopodimas.jpg" alt="Aloo Podimas">
+										<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+										<p class="card-text">A simple potato dish that will blow you away with flavour</p>
+										More..
+									</a>
+							</div>
 
-				<!-- Aloo Podimas -->
-				<div class="card" style="width: 18rem;">
-					<div class="card-body">
-						<h5 class="card-title">Potato (Aloo) Podimas</h5>
-						<a href="#alooPodimas" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipes/aloopodimas.jpg" alt="Aloo Podimas">
-							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
-							<p class="card-text">A simple potato dish that will blow you away with flavour</p>
-							More..
-						</a>
-					</div>
-				</div>
+							<!-- Bhinda Bateta -->
+							<div class="card" style="width: 18rem;">
+									<h5 class="card-title">Okra and Potato</h5>
+									<a href="#bhindaBateta" class="card-link" data-toggle="modal">
+										<img class="card-img-top" src="./images/recipes/bhindabateta.jpg" alt="Bhinda Bateta">
+										<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+										<p class="card-text">A healthy and spicy recipe with Okra and potatoes</p>
+										More..
+									</a>
+							</div>
+						</div> <!-- Card Deck 1 -->
 
-				<!-- Bhinda Bateta -->
-				<div class="card" style="width: 18rem;">
-					<div class="card-body">
-						<h5 class="card-title">Bhinda Bateta (Okra and Potato)</h5>
-						<a href="#bhindaBateta" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipes/bhindabateta.jpg" alt="Bhinda Bateta">
-							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
-							<p class="card-text">A healthy and spicy recipe with Okra and potatoes</p>
-							More..
-						</a>
-					</div>
-				</div>
-			</div> <!-- Card Deck 1 -->
+						<p></p>
+						<!-- Card Deck 2-->
+						<div class="card-deck">
+							<!-- Japanse Curry -->
+							<div class="card" style="width: 18rem;">
+									<h5 class="card-title">Japanese Curry</h5>
+									<a href="#japaneseCurry" class="card-link" data-toggle="modal">
+										<img class="card-img-top" src="./images/recipes/japanesecurry.jpg" alt="Japanese Curry">
+										<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+										<p class="card-text">A delicious curry eaten all over Japan.  Very different to an Indian curry and very tasty.</p>
+										More..
+									</a>
+							</div>
 
-			<p></p>
-			<!-- Card Deck 2-->
-			<div class="card-deck">
-				<!-- Japanse Curry -->
-				<div class="card" style="width: 18rem;">
-					<div class="card-body">
-						<h5 class="card-title">Japanese Curry</h5>
-						<a href="#japaneseCurry" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipes/japanesecurry.jpg" alt="Japanese Curry">
-							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
-							<p class="card-text">A delicious curry eaten all over Japan.  Very different to an Indian curry and very tasty.</p>
-							More..
-						</a>
-					</div>
-				</div>
+							<!-- Bhinda Bateta -->
+							<div class="card" style="width: 18rem;">
+									<h5 class="card-title">Easy Cheese Sauce</h5>
+									<a href="#cheeseSauce" class="card-link" data-toggle="modal">
+										<img class="card-img-top" src="./images/recipes/cheesesauce.jpg" alt="Cheese Sauce">
+										<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+										<p class="card-text">A super easy to make cheese sauce with cornflour.</p>
+										More..
+									</a>
+							</div>
+							
+							<!-- Pumpkin Pie -->
+							<div class="card" style="width: 18rem;">
+									<h5 class="card-title">Creamy Pumpkin Pie</h5>
+									<a href="#pumpkinPie" class="card-link" data-toggle="modal">
+										<img class="card-img-top" src="./images/recipes/pumpkinpie.jpg" alt="Pumpkin Pie">
+										<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+										<p class="card-text">An easy to make, tasty Pumpkin Pie.</p>
+										More..
+									</a>
+							</div>
 
-				<!-- Bhinda Bateta -->
-				<div class="card" style="width: 18rem;">
-					<div class="card-body">
-						<h5 class="card-title">Easy Cheese Sauce</h5>
-						<a href="#cheeseSauce" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipes/cheesesauce.jpg" alt="Cheese Sauce">
-							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
-							<p class="card-text">A super easy to make cheese sauce with cornflour.</p>
-							More..
-						</a>
-					</div>
-				</div>
-				
-				<!-- Pumpkin Pie -->
-				<div class="card" style="width: 18rem;">
-					<div class="card-body">
-						<h5 class="card-title">Creamy Pumpkin Pie</h5>
-						<a href="#pumpkinPie" class="card-link" data-toggle="modal">
-							<img class="card-img-top" src="./images/recipes/pumpkinpie.jpg" alt="Pumpkin Pie">
-							<!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
-							<p class="card-text">An easy to make, tasty Pumpkin Pie.</p>
-							More..
-						</a>
-					</div>
-				</div>
-
-			</div>	<!-- Card Deck 2 -->
-
+						</div>	<!-- Card Deck 2 -->
+					</div> <!-- row -->
+				</div> <!-- container -->
+			</div> <!-- album -->
 
 
 			<!-- Modals -->
@@ -295,13 +292,13 @@
 				<div class="modal-dialog modal-lg" role="document">
 					<div class="modal-content">
 						<div class="modal-header">
-							<h5 class="modal-title" id="exampleModalLabel">Bhinda Bateta</h5>
+							<h5 class="modal-title" id="exampleModalLabel">Okra and Potato (aka Bhinda Bateta)</h5>
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							<span aria-hidden="true">&times;</span>
 							</button>
 						</div>
 						<div class="modal-body">
-							<img class="card-img-top" src="./images/recipes/bhindabateta.jpg" alt="Bhinda Bateta">
+							<img class="card-img-top" src="./images/recipes/bhindabateta.jpg" alt="Okra and Potato">
 							<span class="badge badge-primary">Prep: 10 min</span>
 							<span class="badge badge-warning">Cook: 20 min</span>
 							<span class="badge badge-success">Ready in: 30 min</span>
@@ -494,7 +491,6 @@
 					</div>
 				</div>
 			</div>
-
 			<!-- End of Modals -->
 		</main>
 

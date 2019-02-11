@@ -23,13 +23,15 @@
 
         <?php require_once 'includes/header.php'; ?>
         <main role="main">
+  			<!-- Jumbotron -->
             <section class="jumbotron text-center">
                 <div class="container">
                     <h1 class="jumbotron-heading">Travelogue</h1>
-                    <p class="lead text-muted">So I like travelling.  Below you will see a history of the places I have visited over the years, with the latest destinations at the top. I will add more as time goes on.</p>
+                    <h3 class="lead text-muted">So I like travelling.  Below you will see a history of the places I have visited over the years, with the latest destinations at the top. I will add more as time goes on.</h3>
                 </div>
             </section>
-
+            <!-- End Jumbotron -->
+            
             <div class="album text-muted">
                 <div class="container">
                     <div class="row">

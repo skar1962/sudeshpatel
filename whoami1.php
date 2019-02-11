@@ -40,12 +40,12 @@
             <section class="jumbotron text-center">
                 <div class="container">
                     <h1 class="jumbotron-heading">Who am I?</h1>
-                    <p class="lead text-muted">A brief timeline of my career history is shown below.  <br>
+                    <h3 class="lead text-muted">A brief timeline of my career history is shown below.  <br>
                     Having successfully delivered my targets and finishing my last role at VitalPAC, 
                     I finally have time to enjoy doing the things I want to do such as travel, cooking, DIY and web development.
                     I also have some spare time to use my brain and help 
                     children to pass their primary school exams (11+) for entrance into selective UK based schools.
-                    </p>
+</h3>
                 </div>
             </section>
 

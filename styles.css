@@ -1,6 +1,7 @@
 ﻿body {
   font-family:Arial,Helvettica,sans-serif;
-  background-color:#636262;
+  /*08/02/2019 background-color:#636262;*/
+  background-color: rgb(92, 92, 126);
 
 }
 
@@ -13,7 +14,7 @@ p {
 }
 
 h1 {
-  color:rgb(15, 148, 236);
+  color:rgb(92, 92, 126);
   font-size:200%;
   margin:0;
   padding:0;
@@ -22,11 +23,20 @@ h1 {
 }
 
 h2 {
-  font-size:140%;
-  color:black;
+  color:white;
+  font-size:200%;
+  margin:0;
+  padding:0;
+  padding-top:10px;
+  text-transform: uppercase;
 }
 
 h3 {
+  font-size:120%;
+  color:black;
+}
+
+h4 {
   font-size:110%;
   color: rgb(27, 132, 136);
 }
