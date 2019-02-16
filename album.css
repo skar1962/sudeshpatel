@@ -29,13 +29,15 @@ body {
   /* min-height: 50rem; Can be removed; just added for demo purposes */
   padding-top: 3rem;
   padding-bottom: 3rem;
+  padding-left: 0.7rem;
+  
 }
 
 .card {
-  float: left;
-  width: 33.333%;
+  width: 32%;
   padding: .75rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+  margin-right: 0.25rem;
   border: 0;
 }
 
