@@ -14,7 +14,8 @@
 		<link href="carousel.css" rel="stylesheet">
 		
 		<link rel="stylesheet" type="text/css" href="styles.css" > 
-	
+
+
 	<!--
 		<script type="text/javascript" src="script.js"></script>
 -->
@@ -41,11 +42,9 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="first-slide" src="./images/papertocomputer.png" alt="Who Am I">
+							<img class="first-slide" src="./images/worldonphone.png" alt="Digitise your ideas">
 							<div class="carousel-caption">
 								<h2>Digitise your ideas</h2>
-								<br>
-								<br>
 							</div>
 						</div>
 
@@ -53,8 +52,6 @@
 							<img class="second-slide" src="./images/webdevelopment2.jpg" alt="Web Development">
 							<div class="carousel-caption">
 								<h2>Web design and development</h2>
-								<br>
-								<br>
 							</div>
 						</div> <!-- carousel-item -->
 
@@ -65,28 +62,23 @@
 							</div>
 						</div><!-- carousel-item -->
 
-
 						<div class="carousel-item">
-							<img class="fourth-slide" src="./images/costsqueeze.jpg" alt="Low Cost">
-							<div class="carousel-caption text-right">
-								<h2>Surprisingly affordable</h2>
-								<br><br>
-							</div>
-						</div><!-- carousel-item -->
-
-						<div class="carousel-item">
-							<img class="fifth-slide" src="./images/personaltouch.jpg" alt="Personal Touch">
+							<img class="fourth-slide" src="./images/personaltouch.jpg" alt="Personal Touch">
 							<div class="carousel-caption">
 								<h2>A personal touch</h2>
-								<br><br>
 							</div>
 						</div><!-- carousel-item -->
 
+						<div class="carousel-item">
+							<img class="fifth-slide" src="./images/costsqueeze.jpg" alt="Low Cost">
+							<div class="carousel-caption">
+								<h2>Surprisingly affordable</h2>
+							</div>
+						</div><!-- carousel-item -->
 						<div class="carousel-item">
 							<img class="sixth-slide" src="./images/endtoend.jpg" alt="End to End">
 							<div class="carousel-caption">
 								<h2>An end to end service</h2>
-								<br><br>
 							</div>
 						</div><!-- carousel-item -->
 					</div> <!-- Carousel Inner -->
@@ -104,7 +96,7 @@
 				<!-- Using Cards -->
 				<div class="container">
 					<div class="card-deck">
-						<div class="card" style="width: 18rem;">
+						<div class="card" style="width: 15rem;">
 							<img class="card-img-top" src="./images/whoami.jpg" alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title">Who am I?</h5>
@@ -117,7 +109,7 @@
 							</div>	
 						</div> <!-- card -->
 						
-						<div class="card" style="width: 18rem;">
+						<div class="card" style="width: 15rem;">
 							<img class="card-img-top" src="./images/webdevelopment.jpg" alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title">What I do</h5>
@@ -132,20 +124,22 @@
 							</div>	
 						</div><!-- card -->
 
-						<div class="card" style="width: 18rem;">
-							<img class="card-img-top" src="./images/travel2.jpg" alt="Card image cap">
+						<div class="card" style="width: 15rem;">
 							<div class="card-body">
-								<h5 class="card-title">Travel Interests</h5>
+								<h5 class="card-title">Interests</h5>
 								<p class="card-text">
-									I love going to new places and have travelled extensively 
-									in the UK and also in Europe.  Checkout my travelogue below.
+									My interests include both travel and cooking. Click on the buttons below to find out more.
 								</p>
 							</div>
+							<img class="card-img-top" src="./images/travel2.jpg" alt="Card image cap">
+							<br>
+							<img class="card-img-bottom" src="./images/cooking.jpg" alt="Card image cap">
 							<div class="card-footer">
 								<a href="travel.php" class="btn btn-primary">Travelogue</a>
+								<a href="recipes.php" class="btn btn-primary">My Recipes</a>
 							</div>	
 						</div><!-- card -->
-						
+<!--						
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="./images/cooking.jpg" alt="Card image cap">
 							<div class="card-body">
@@ -158,7 +152,7 @@
 							<div class="card-footer">
 								<a href="recipes.php" class="btn btn-primary">My Recipes</a>
 							</div>								
-						</div><!-- card -->
+						</div> card -->
 
 					</div> 	<!-- Card Decks -->
 				</div>
